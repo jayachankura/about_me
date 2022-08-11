@@ -1,4 +1,4 @@
-ABOUT ME
+ABOUT ME (08112022)
 - 👋 Hi, I’m Jayachandra (Jay) Kura
 - 👀 I’m interested in increasing accessibility to blind users
 - 🌱 I’m currently learning html, data structures,javascript
